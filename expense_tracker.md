@@ -1,0 +1,2 @@
+Design an app to track personal expenses. Users should be able to record expenses with fields such as category, description, amount, and date. Include a view that allows users to see expenses by category or time period (daily, weekly, monthly). Add simple charts to display the distribution of expenses by category and total summaries.
+
