@@ -1,0 +1,1 @@
+Develop an app that allows users to create and respond to surveys. Each survey should include questions with multiple-choice options or open text responses. The results should be stored and displayed in a visual format (tables or charts) for easy analysis. Ensure the app is compatible with various devices.
