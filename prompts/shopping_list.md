@@ -1,0 +1,1 @@
+Build an app to create and manage shopping lists. Users should be able to add products to the list, assign them to a category (groceries, cleaning supplies, etc.), and mark items as purchased. The app should allow users to edit or remove items from the list. Include a feature to organize items by categories and highlight those that are not yet purchased.
