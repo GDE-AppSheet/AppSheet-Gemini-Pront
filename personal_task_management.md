@@ -1,1 +1,0 @@
-Build an app to manage a contact directory. Users should be able to add, edit, and delete contacts. Each contact should include information such as name, phone number, email, and an optional note. Add a search function to quickly find contacts by name or other fields. Ensure the app is easy to use on both mobile and tablet devices.
